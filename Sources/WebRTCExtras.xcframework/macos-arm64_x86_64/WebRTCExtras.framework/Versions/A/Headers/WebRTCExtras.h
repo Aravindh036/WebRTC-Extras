@@ -6,6 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <WebRTCExtras/DataHelper.h>
 
 //! Project version number for WebRTCExtras.
 FOUNDATION_EXPORT double WebRTCExtrasVersionNumber;

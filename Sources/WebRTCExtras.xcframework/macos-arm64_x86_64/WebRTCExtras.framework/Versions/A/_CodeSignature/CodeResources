@@ -11,11 +11,18 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/DataHelper.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Q41m5xyc4nyFHvEpk8JPdFq86zm96yyvKsPOsEhCSTU=
+			</data>
+		</dict>
 		<key>Headers/WebRTCExtras.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CeFsWuTLjcdmzXDfKkkdfflmnJ1OcUaSYa17P5YK2U8=
+			AWzKoL0n4qEoGOA/ix69otLhlOBdfZr2uwMvLiWrkxs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
