@@ -29,7 +29,7 @@ typedef void (^NetworkStatusChangeCallback)(NetworkStatus);
 
 @interface NetworkHelper : NSObject
 
-- (void)observeNetworkReachability:(NetworkStatusChangeCallback)callback;
-- (void)stopMonitoring;
++ (void)observeNetworkReachability:(NetworkStatusChangeCallback)callback;
++ (void)stopMonitoring;
 
 @end
