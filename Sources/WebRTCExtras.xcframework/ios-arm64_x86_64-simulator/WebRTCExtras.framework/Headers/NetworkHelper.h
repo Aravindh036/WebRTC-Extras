@@ -7,4 +7,8 @@
 
 #import <Foundation/Foundation.h>
 
-void observeNetworkReachability(void (^callback)(BOOL));
+@interface NetworkHelper : NSObject
+
++ (void)observeNetworkReachability:(void (^)(BOOL))callback;
+
+@end
