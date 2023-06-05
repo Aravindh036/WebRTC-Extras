@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'WebRTCExtras'
-  s.version      = '0.0.9'
+  s.version      = '0.0.11'
   s.summary      = 'A Objective C library for WebRTC'
   s.homepage     = 'https://github.com/Aravindh036/WebRTC-Extras'
   s.license      = 'MIT'
