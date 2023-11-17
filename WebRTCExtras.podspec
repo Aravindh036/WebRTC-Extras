@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     s.license                   = 'MIT'
     s.module_name               = 'WebRTCExtras'
     s.author                    = {
-        'Aravindh'  => 'aravindh036@gmail.com'
+        'aravindh'  => 'aravindh036@gmail.com'
     }
     s.source                    = {
         :git => 'https://github.com/Aravindh036/WebRTC-Extras.git',
@@ -29,6 +29,5 @@ Pod::Spec.new do |s|
     s.user_target_xcconfig      = {
         'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
     }
-    #s.ios.vendored_frameworks       = "Sources/WebRTCExtras.xcframework"
-    s.osx.vendored_frameworks       = "Sources/WebRTCExtras.xcframework"
+    s.osx.vendored_frameworks       = "Sources/WebRTCExtras/WebRTCExtras.xcframework/macos-arm64_x86_64/WebRTCExtras.framework"
 end

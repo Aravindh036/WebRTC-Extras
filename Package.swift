@@ -10,6 +10,6 @@ let package = Package(
             targets: ["WebRTCExtras"]),
     ],
     targets: [
-        .binaryTarget(name: "WebRTCExtras", path: "./Sources/WebRTCExtras/WebRTCExtras.xcframework")
+        .binaryTarget(name: "WebRTCExtras", path: "./Sources/WebRTCExtras/WebRTCExtras.xcframework.zip")
     ]
 )
