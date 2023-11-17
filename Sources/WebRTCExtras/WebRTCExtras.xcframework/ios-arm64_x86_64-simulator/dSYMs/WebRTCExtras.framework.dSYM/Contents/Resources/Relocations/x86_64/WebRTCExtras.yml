@@ -1,0 +1,26 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/aravin-10997/Library/Developer/Xcode/DerivedData/WebRTCExtras-atnikoofxxkjmbbzkacwnciegjjk/Build/Intermediates.noindex/ArchiveIntermediates/WebRTCExtras/InstallationBuildProductsLocation/Library/Frameworks/WebRTCExtras.framework/WebRTCExtras'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x31C1D, size: 0x8, addend: 0x0, symName: _WebRTCExtrasVersionString, symObjAddr: 0x0, symBinAddr: 0x3C50, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x31C52, size: 0x8, addend: 0x0, symName: _WebRTCExtrasVersionNumber, symObjAddr: 0x38, symBinAddr: 0x3C88, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x31C8F, size: 0x8, addend: 0x0, symName: '+[NetworkHelper observeNetworkReachability:]', symObjAddr: 0x0, symBinAddr: 0x3647, symSize: 0xF1 }
+  - { offsetInCU: 0x4F, offset: 0x31CB7, size: 0x8, addend: 0x0, symName: _monitor, symObjAddr: 0x29A8, symBinAddr: 0x4470, symSize: 0x0 }
+  - { offsetInCU: 0x65, offset: 0x31CCD, size: 0x8, addend: 0x0, symName: _monitorQueue, symObjAddr: 0x29A0, symBinAddr: 0x4468, symSize: 0x0 }
+  - { offsetInCU: 0xA3, offset: 0x31D0B, size: 0x8, addend: 0x0, symName: '+[NetworkHelper observeNetworkReachability:]', symObjAddr: 0x0, symBinAddr: 0x3647, symSize: 0xF1 }
+  - { offsetInCU: 0x220, offset: 0x31E88, size: 0x8, addend: 0x0, symName: '___44+[NetworkHelper observeNetworkReachability:]_block_invoke', symObjAddr: 0xF1, symBinAddr: 0x3738, symSize: 0xFB }
+  - { offsetInCU: 0x4A2, offset: 0x3210A, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b, symObjAddr: 0x1EC, symBinAddr: 0x3833, symSize: 0x17 }
+  - { offsetInCU: 0x4CB, offset: 0x32133, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0x203, symBinAddr: 0x384A, symSize: 0xF }
+  - { offsetInCU: 0x4F6, offset: 0x3215E, size: 0x8, addend: 0x0, symName: '+[NetworkHelper networkStatusForPathStatus:]', symObjAddr: 0x212, symBinAddr: 0x3859, symSize: 0x16 }
+  - { offsetInCU: 0x537, offset: 0x3219F, size: 0x8, addend: 0x0, symName: '+[NetworkHelper stopMonitoring]', symObjAddr: 0x228, symBinAddr: 0x386F, symSize: 0x11 }
+  - { offsetInCU: 0x27, offset: 0x323D8, size: 0x8, addend: 0x0, symName: '+[DataHelper getInt32FromData:atIndex:]', symObjAddr: 0x0, symBinAddr: 0x3880, symSize: 0x2E }
+  - { offsetInCU: 0x51, offset: 0x32402, size: 0x8, addend: 0x0, symName: '+[DataHelper getInt32FromData:atIndex:]', symObjAddr: 0x0, symBinAddr: 0x3880, symSize: 0x2E }
+  - { offsetInCU: 0xDE, offset: 0x3248F, size: 0x8, addend: 0x0, symName: '+[DataHelper getInt16FromData:atIndex:]', symObjAddr: 0x2E, symBinAddr: 0x38AE, symSize: 0x32 }
+  - { offsetInCU: 0x16B, offset: 0x3251C, size: 0x8, addend: 0x0, symName: '+[DataHelper getInt8FromData:atIndex:]', symObjAddr: 0x60, symBinAddr: 0x38E0, symSize: 0x2D }
+  - { offsetInCU: 0x1F8, offset: 0x325A9, size: 0x8, addend: 0x0, symName: '+[DataHelper getStringFromData:atIndex:length:]', symObjAddr: 0x8D, symBinAddr: 0x390D, symSize: 0x65 }
+  - { offsetInCU: 0x2B1, offset: 0x32662, size: 0x8, addend: 0x0, symName: '+[DataHelper getValueFromData:atIndex:size:]', symObjAddr: 0xF2, symBinAddr: 0x3972, symSize: 0x47 }
+  - { offsetInCU: 0x368, offset: 0x32719, size: 0x8, addend: 0x0, symName: '+[DataHelper appendValue:toMutableData:]', symObjAddr: 0x139, symBinAddr: 0x39B9, symSize: 0x48 }
+  - { offsetInCU: 0x3F9, offset: 0x327AA, size: 0x8, addend: 0x0, symName: '+[DataHelper appendStringValue:toMutableData:]', symObjAddr: 0x181, symBinAddr: 0x3A01, symSize: 0x6E }
+  - { offsetInCU: 0x4B1, offset: 0x32862, size: 0x8, addend: 0x0, symName: '+[DataHelper uintegerFromInt:]', symObjAddr: 0x1EF, symBinAddr: 0x3A6F, symSize: 0xD }
+  - { offsetInCU: 0x4F2, offset: 0x328A3, size: 0x8, addend: 0x0, symName: '+[DataHelper jsonStringParseWithString:]', symObjAddr: 0x1FC, symBinAddr: 0x3A7C, symSize: 0xB4 }
+...
