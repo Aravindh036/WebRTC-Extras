@@ -1,6 +1,0 @@
-framework module WebRTCExtras {
-  umbrella header "WebRTCExtras.h"
-
-  export *
-  module * { export * }
-}
