@@ -14,9 +14,9 @@ Pod::Spec.new do |s|
     }
     s.source                    = {
         :git => 'https://github.com/Aravindh036/WebRTC-Extras.git',
-        :commit => "12f88707a7a8890c91bea7bd00e43ad770dd65e9"
+        :tag => "v#{s.version}"
     }
     s.ios.deployment_target     = "12"
     s.osx.deployment_target     = "10.13"
-    s.vendored_frameworks       = "Sources/WebRTCExtras/WebRTCExtras.xcframework.zip"
+    s.vendored_frameworks       = "Sources/WebRTCExtras/WebRTCExtras.xcframework"
 end
